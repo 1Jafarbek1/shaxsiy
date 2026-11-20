@@ -1,0 +1,66 @@
+[
+  {
+    "cover": "",
+    "author": "",
+    "status": "",
+    "featured": true,
+    "draft": false,
+    "tags": [
+      "namuna"
+    ],
+    "id": "namuna-maqola",
+    "type": "maqola",
+    "title": "Birinchi maqola (namuna)",
+    "date": "2026-11-20",
+    "excerpt": "Bu namuna maqola. Oʻchirib, oʻzingiznikini yozing.",
+    "category": "Fikrlar",
+    "body": "Bu namuna matn. Maqola shunday oddiy matn bilan yoziladi.\n\n## Sarlavha qoʻyish\n\nSarlavha uchun satr boshiga ## belgisini yozing. **Qalin** va *qiya* matn ham ishlaydi.\n\n## Rasm qoʻshish\n\nYozish panelida “Matnga rasm qoʻshish” tugmasini bosing, rasm shu yerga oʻzi joylashadi."
+  },
+  {
+    "cover": "",
+    "author": "",
+    "status": "",
+    "featured": false,
+    "draft": false,
+    "tags": [
+      "namuna"
+    ],
+    "id": "namuna-sher",
+    "type": "sher",
+    "title": "Namuna sheʼr",
+    "date": "2026-11-19",
+    "excerpt": "",
+    "category": "Namuna",
+    "body": "Bu satr birinchi,\nbu esa ikkinchi satr.\n\nBoʻsh qator qoʻysangiz,\nyangi band boshlanadi."
+  },
+  {
+    "cover": "",
+    "author": "",
+    "status": "",
+    "featured": false,
+    "draft": false,
+    "tags": [],
+    "id": "namuna-xotira",
+    "type": "arxiv",
+    "title": "Birinchi xotira (namuna)",
+    "date": "2026-11-18",
+    "excerpt": "Xotira yoki muhim lahzani shunday qoʻshasiz.",
+    "category": "Xotira",
+    "body": "Bu yerga xotirangizni yozing. Rasm ham qoʻshish mumkin."
+  },
+  {
+    "cover": "",
+    "author": "Muallif ismi",
+    "status": "Oʻqiyapman",
+    "featured": false,
+    "draft": false,
+    "tags": [],
+    "id": "namuna-kitob",
+    "type": "kitob",
+    "title": "Namuna kitob",
+    "date": "2026-11-17",
+    "excerpt": "Kitob haqida qisqa fikringiz.",
+    "category": "",
+    "body": "Kitob haqidagi fikrlaringizni shu yerga yozing."
+  }
+]
