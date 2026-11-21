@@ -49,18 +49,21 @@
     "body": "Bu yerga xotirangizni yozing. Rasm ham qoʻshish mumkin."
   },
   {
-    "cover": "",
-    "author": "Muallif ismi",
-    "status": "Oʻqiyapman",
-    "featured": false,
-    "draft": false,
-    "tags": [],
     "id": "namuna-kitob",
     "type": "kitob",
-    "title": "Namuna kitob",
-    "date": "2026-11-17",
-    "excerpt": "Kitob haqida qisqa fikringiz.",
-    "category": "",
-    "body": "Kitob haqidagi fikrlaringizni shu yerga yozing."
+    "title": "Harvard Odati",
+    "date": "2026-11-16",
+    "excerpt": "O’z ustida ishlash, intizom va tartibli bo’lishga undovchi kitob.",
+    "category": "Shaxsiy rivojlanish, intizom",
+    "tags": [
+      "shaxsiy rivojlanish",
+      "intizom"
+    ],
+    "author": "Vey Syuin",
+    "status": "Oʻqidim",
+    "cover": "images/mwq1a9ts-img-5113.jpg",
+    "body": "«Buyuk ishlarni amalga oshrishning\nyagona yo'li o'z ishingni sevishdir.\nAgar uni hali topmagan bo'lsangiz,\nizlashdan to'xtamang.\nAslo taslim bo'lmang!»\n— Stive Jobs.\n\n![](images/mwq17k3v-img-5113.jpg)\n\n",
+    "featured": true,
+    "draft": false
   }
 ]
