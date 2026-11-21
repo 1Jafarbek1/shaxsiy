@@ -56,13 +56,13 @@ function wire(h){
 function render(){
   const h=location.hash.slice(1);
   document.body.dataset.r=h===""?"home":"x";
-  $("#app").innerHTML=view(h);
+  $("#app").innerHTML=ready?view(h):"";
   const t=SEC[h]?TYPES[SEC[h]].label:h==="haqimda"?"Men haqimda":h==="qidiruv"?"Qidirish":h.startsWith("p-")?(posts.find(p=>"p-"+p.id===h)||{}).title||"":"";
-  document.title=(t?t+" | ":"")+cfg.name;$("#brand").textContent=cfg.name;
+  if(ready)document.title=(t?t+" | ":"")+cfg.name;$("#brand").textContent=ready?cfg.name:"";
   const md_=document.querySelector('meta[name=description]');if(md_)md_.content=cfg.tagline;
   $("#nv").innerHTML=Object.values(TYPES).map(t=>`<a href="#${t.sec}"${h===t.sec?' aria-current="page"':""}>${t.label}</a>`).join("")+`<a href="#haqimda"${h==="haqimda"?' aria-current="page"':""}>Men haqimda</a><a href="#qidiruv"${h==="qidiruv"?' aria-current="page"':""}>Qidirish</a>`;
-  $("#fl").textContent=`© ${new Date().getFullYear()} ${cfg.author}`;
-  $("#fr").innerHTML=(cfg.telegram?`<a href="${esc(cfg.telegram)}">Telegram</a> `:"")+(cfg.email?`<a href="mailto:${esc(cfg.email)}">${esc(cfg.email)}</a>`:"");
+  $("#fl").textContent=ready?`© ${new Date().getFullYear()} ${cfg.author}`:"";
+  $("#fr").innerHTML=!ready?"":(cfg.telegram?`<a href="${esc(cfg.telegram)}">Telegram</a> `:"")+(cfg.email?`<a href="mailto:${esc(cfg.email)}">${esc(cfg.email)}</a>`:"");
   wire(h);
 }
 addEventListener("hashchange",()=>{shown=10;cat="";$("#hd").removeAttribute("data-open");$("#mb").setAttribute("aria-expanded","false");render();scrollTo(0,0)});
