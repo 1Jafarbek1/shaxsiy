@@ -25,7 +25,7 @@ nav a:hover,nav a[aria-current]{color:var(--text)}nav a:hover::after,nav a[aria-
 .ib:hover{border-color:var(--accent)}.ib svg{transition:transform .4s}#th:hover svg{transform:rotate(180deg)}
 #mb{display:none}
 h1,h2,h3{font-family:var(--disp);font-weight:600;line-height:1.15;letter-spacing:-.015em;margin:0 0 1rem}
-h1{font-size:clamp(2.1rem,6vw,3.4rem)}h2{font-size:1.7rem;margin-top:4rem}
+h1{font-size:clamp(1.7rem,6vw,3.4rem)}h2{font-size:1.2rem;margin-top:4rem}
 .muted,.d,.s{color:var(--muted);font:.92rem/1.5 var(--ui)}
 main{padding-block:2.5rem 4rem;min-height:75vh;animation:rise .5s both}
 .aur{display:none;position:absolute;top:0;left:0;width:100%;height:36rem;overflow:hidden;pointer-events:none;z-index:-1;-webkit-mask-image:linear-gradient(#000 55%,transparent);mask-image:linear-gradient(#000 55%,transparent)}
