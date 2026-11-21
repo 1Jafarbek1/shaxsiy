@@ -17,21 +17,21 @@
     "body": "Bu namuna matn. Maqola shunday oddiy matn bilan yoziladi.\n\n## Sarlavha qoʻyish\n\nSarlavha uchun satr boshiga ## belgisini yozing. **Qalin** va *qiya* matn ham ishlaydi.\n\n## Rasm qoʻshish\n\nYozish panelida “Matnga rasm qoʻshish” tugmasini bosing, rasm shu yerga oʻzi joylashadi."
   },
   {
-    "cover": "",
-    "author": "",
-    "status": "",
-    "featured": false,
-    "draft": false,
-    "tags": [
-      "namuna"
-    ],
     "id": "namuna-sher",
     "type": "sher",
-    "title": "Namuna sheʼr",
-    "date": "2026-11-19",
+    "title": "Topshirdim…",
+    "date": "2026-09-16",
     "excerpt": "",
-    "category": "Namuna",
-    "body": "Bu satr birinchi,\nbu esa ikkinchi satr.\n\nBoʻsh qator qoʻysangiz,\nyangi band boshlanadi."
+    "category": "She’r",
+    "tags": [
+      "Sher"
+    ],
+    "author": "",
+    "status": "",
+    "cover": "",
+    "body": "Jim ketdi deb, xotirjammisan?\nSukutingdan topdingmi panoh?\nMen shunchaki topshirdim unga,\nHisoblashar sen bilan Alloh.\n\nHa, men unday emasdim asli,\nSen ketgandan keyin topmadim aslim.\nMast qilib qo‘ygandi bu sevging vasli,\nOxir-oqibat, qilding-ku taslim.\n\nQiziqishim qolmadi dunyo ishiga,\nBetavfiq bandangni kechirgin, Alloh.\nFoydasi tegmasa, kerakmas kishi kishiga,\nHisoblashar barcha bilan bir kuni Alloh.",
+    "featured": true,
+    "draft": false
   },
   {
     "cover": "",
