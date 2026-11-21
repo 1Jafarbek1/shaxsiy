@@ -1,20 +1,22 @@
 [
   {
-    "cover": "",
-    "author": "",
-    "status": "",
-    "featured": true,
-    "draft": false,
-    "tags": [
-      "namuna"
-    ],
     "id": "namuna-maqola",
     "type": "maqola",
-    "title": "Birinchi maqola (namuna)",
-    "date": "2026-11-20",
-    "excerpt": "Bu namuna maqola. Oʻchirib, oʻzingiznikini yozing.",
+    "title": "Бир «противогаз» тарихи…",
+    "date": "2026-10-10",
+    "excerpt": "«Противогаз» атрофдаги заҳарли газлардан ҳимоя қилади. Бироқ атрофдаги ташқаридан гўзал, аммо ич-ичидан чириб кетган инсонлардан нима ҳимоя қиларкин?",
     "category": "Fikrlar",
-    "body": "Bu namuna matn. Maqola shunday oddiy matn bilan yoziladi.\n\n## Sarlavha qoʻyish\n\nSarlavha uchun satr boshiga ## belgisini yozing. **Qalin** va *qiya* matn ham ishlaydi.\n\n## Rasm qoʻshish\n\nYozish panelida “Matnga rasm qoʻshish” tugmasini bosing, rasm shu yerga oʻzi joylashadi."
+    "tags": [
+      "maqol",
+      "fikrlar",
+      "tajriba"
+    ],
+    "author": "",
+    "status": "",
+    "cover": "",
+    "body": "«Противогаз» атрофдаги заҳарли газлардан ҳимоя қилади. Бироқ атрофдаги ташқаридан гўзал, аммо ич-ичидан чириб кетган инсонлардан нима ҳимоя қиларкин?\n\nАҳхх… ҳеч қандай кўзойнак, ҳеч қандай ниқоб ва ҳеч қандай «противо…»лар йўқ, афсуски.\n\nЙиллар давомида ҳаётий сабоқларни олиб, урилиб-сурилиб, маънавий ва маърифий томондан етукланган инсон вақт ўтиши билан одамларнинг тоифаси, тури ва даражасини фарқлай олади.\n\nАммо афсуски, атрофимиздаги зарарли кимсалардан заҳарланмагунча, заҳарланиш қандай бўлишини билиш амри маҳол.\n\nБаъзи инсонлардан ҳимояланиш учун эса противогаз эмас, тажриба керак экан.\n\nНегадир ушбу пост қисман комедия ҳам бўлди, шекилли. :)",
+    "featured": true,
+    "draft": false
   },
   {
     "id": "namuna-sher",
