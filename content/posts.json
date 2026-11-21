@@ -34,19 +34,21 @@
     "draft": false
   },
   {
-    "cover": "",
-    "author": "",
-    "status": "",
-    "featured": false,
-    "draft": false,
-    "tags": [],
     "id": "namuna-xotira",
     "type": "arxiv",
-    "title": "Birinchi xotira (namuna)",
-    "date": "2026-11-18",
-    "excerpt": "Xotira yoki muhim lahzani shunday qoʻshasiz.",
+    "title": "2-sentabr kuni, Qarshi Davlat Texnika Universiteti Nuriston akademik litseyida 2026–2027-o‘quv yilining boshlanishi — “Bilimlar kuni” va Vatanimiz Mustaqilligining 35 yilligi munosabati bilan tantanali bayram tadbiri bo‘lib o‘tdi.",
+    "date": "2026-09-02",
+    "excerpt": "Bayram tadbirida Vatanimiz mustaqilligi, yurtimizda yoshlarga yaratilayotgan imkoniyatlar, sifatli ta’lim va ilm-fanning yoshlar hayotidagi ahamiyati haqida so‘z yuritildi.",
     "category": "Xotira",
-    "body": "Bu yerga xotirangizni yozing. Rasm ham qoʻshish mumkin."
+    "tags": [
+      "Tadbir"
+    ],
+    "author": "",
+    "status": "",
+    "cover": "",
+    "body": "Menimcha, “Bilimlar kuni”ning eng muhim jihati ham shunda: yangi o‘quv yili — shunchaki darslarning boshlanishi emas. Bu o‘z ustimizda yana bir bor ishlash, yangi maqsadlar qo‘yish, xato va kamchiliklardan xulosa chiqarish hamda kechagidan yaxshiroq bo‘lish uchun berilgan yangi imkoniyatdir.\n\nBugungi tadbirdan olgan eng katta taassurotim — bizga berilgan imkoniyatlarning qadriga yetish va ulardan to‘g‘ri foydalanish har birimiz uchun muhim ekanligi bo‘ldi.\n\nZero, imkoniyatning o‘zi muvaffaqiyatni kafolatlamaydi. Undan qanday foydalanishimiz esa kelajagimizni belgilaydi.",
+    "featured": true,
+    "draft": false
   },
   {
     "id": "namuna-kitob",
